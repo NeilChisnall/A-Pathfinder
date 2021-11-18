@@ -1,2 +1,2 @@
 # A-Pathfinder
-A Pygame implementation of the A* Pathfinding algorithm. 
+A Pygame implementation of the A* Pathfinding algorithm. Pygame is required to run the program. Once the program is run, the first left click sets the starting position, the second the left click sets the finishing position and then all subsequent left clicks set the barrier squares. The start, finish or barrier squares can be reset by right clicking on them. The entire board can be reset by pressing the 'r' key.
